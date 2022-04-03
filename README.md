@@ -53,6 +53,6 @@ http://localhost:5000/register - Register user (POST)
 
 ## Demo
 
-- [Presentation Demo](https://drive.google.com/file/d/1kCMjSOGAlhInP2M8voVntsld4iQtOrUE/view)
+- [Presentation Demo](https://drive.google.com/file/d/1QSLPfpVbFv0MsfwRejW4AHChIpxenKBm/view?usp=sharing)
 
 - [Blog Link](https://medium.com/@mswagh98/900df1151fea)
